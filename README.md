@@ -1,6 +1,3 @@
-### 🏆 GitHub Trophies
-![MªEugenia Alvarez's Trophy](https://github-profile-trophy.vercel.app/?username=mariaeugenia-alvarez)
-
 ## ⚙️ Tecnologías y Herramientas que uso
 
 ### Lenguajes
@@ -18,5 +15,9 @@
 
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### 🏆 GitHub Trophies
+![MªEugenia Alvarez's Trophy](https://github-profile-trophy.vercel.app/?username=mariaeugenia-alvarez)
 
 ---
