@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57F7&center=true&vCenter=true&width=435&lines=ML+Engineer+%7C+AI+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57F7&center=true&vCenter=true&width=435&lines=AI+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <em>Biodata enthusiast. Cat & karaoke lover. Occasional triathlete. Striving to keep things simple.</em>
+  <em>Passionate about understanding complex systems in any environment.</em>
 </p>
 
 ---
